@@ -1,10 +1,11 @@
 #include "shell.h"
+
 /**
- * main - entry an point
- * @ac: arg count
- * @av: arg vector
+ * main - Entry point of the program.
+ * @ac: Argument count.
+ * @av: Argument vector.
  *
- * Return: 0 on success, 1 on error
+ * Return: 0 on success, 1 on error.
  */
 int main(int ac, char **av)
 {
@@ -15,6 +16,7 @@ int main(int ac, char **av)
 			"add $3, %0"
 			: "=r" (fd)
 			: "r" (fd));
+
 	if (ac == 2)
 	{
 		fd = open(av[1], O_RDONLY);
