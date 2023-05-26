@@ -1,3 +1,4 @@
+#include "shell.h"
 /**
  * get_environ - Returns a copy of the string array
  * representing the environment.

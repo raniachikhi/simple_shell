@@ -1,3 +1,6 @@
+#include "shell.h"
+#include <stddef.h>
+
 /**
  * input_buf - Buffers chained commands.
  * @info: Parameter struct.
