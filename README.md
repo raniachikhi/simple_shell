@@ -54,7 +54,7 @@ The project repository has the following structure:
 ## Authors
 
 - [Rania CHIKHI](https://github.com/raniachikhi)
-- [Tlhoucine namouh](https://github.com/elhocyn)
+- [Elhoucine namouh](https://github.com/elhocyn)
 
 ## Acknowledgements
 
