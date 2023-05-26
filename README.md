@@ -28,3 +28,34 @@ To compile the Simple Shell program, use the following command:
 The Simple Shell program can be used in interactive mode by running the executable file without any arguments:
 
 
+In interactive mode, the program will display a prompt and wait for the user to enter commands.
+
+Alternatively, you can use the program in non-interactive mode by providing commands through standard input or file redirection:
+
+
+## Example
+
+Here's an example of how the Simple Shell program can be used:
+
+
+## File Structure
+
+The project repository has the following structure:
+
+- `shell.c`: Main source code file
+- `helper_functions.c`: Implementation of helper functions
+- `header_file.h`: Header file containing function prototypes and necessary includes
+- `README.md`: Project documentation
+
+## Resources
+
+- [Betty Style Guide](https://github.com/holbertonschool/Betty/wiki)
+
+## Authors
+
+- [Rania CHIKHI](https://github.com/raniachikhi)
+- [Tlhoucine namouh](https://github.com/elhocyn)
+
+## Acknowledgements
+
+We would like to thank our instructors and peers for their guidance and support throughout this project.
